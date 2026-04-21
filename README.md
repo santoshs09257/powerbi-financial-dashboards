@@ -51,19 +51,19 @@ Tracks fixed vs variable expenses, vendor spending, monthly cost trends.
 ## 📸 Dashboard Screenshots
 
 ### Financial Executive Dashboard
-![Financial Dashboard](Screenshot 2026-04-20 092419.png)
+![Financial Dashboard](Screenshot%202026-04-20%20092419.png)
 
 ### Income Statement & Balance Sheet
-![Income Dashboard](Screenshot 2026-04-20 092514.png)
+![Income Dashboard](Screenshot%202026-04-20%20092514.png)
 
 ### Recurring Expense Dashboard
-![Expense Dashboard](Screenshot 2026-04-20 092546.png)
+![Expense Dashboard](Screenshot%202026-04-20%20092546.png)
 
 ### Cash Flow Statement Dashboard
-![Cash Flow Dashboard](Screenshot 2026-04-20 092645.png)
+![Cash Flow Dashboard](Screenshot%202026-04-20%20092645.png)
 
 ### Pareto Analysis Dashboard
-![Pareto Dashboard](Screenshot 2026-04-21 091916.png)
+![Pareto Dashboard](Screenshot%202026-04-21%20091916.png)
 
 ## 👨‍💻 Author
 
